@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ciallo ～(∠・ω< )⌒☆
 
-<!--
-**Scov-WXZ/Scov-WXZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Scov!👋
 
-Here are some ideas to get you started:
+I'm a multifaceted individual with a passion for:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛡️ Cybersecurity Engineer
+
+- ✨ ACG Enthusiast
+
+Feel free to connect, collaborate, or just chat about our shared interests!
+
+Let's make the digital world a safer and more exciting place together!
